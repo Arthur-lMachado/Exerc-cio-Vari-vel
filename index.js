@@ -41,11 +41,11 @@ console.log(`Novo y: ${y}`);
 
 //-------------------
 
-let primeiroNumero = parseFloat(prompt("Digite o primeiro número:"));
-let segundoNumero = parseFloat(prompt("Digite o segundo número:"));
+let numero1 = parseFloat(prompt("Digite o primeiro número:"));
+let numero2 = parseFloat(prompt("Digite o segundo número:"));
 
-let soma = primeiroNumero + segundoNumero;
-let multiplicacao = primeiroNumeroNumero * segundoNumero;
+let soma = numero1 + numero2;
+let multiplicacao = numero1 * numero2;
 
 console.log(`1. A soma dos números é: ${soma}.`);
 console.log(`2. A multiplicação dos números é: ${multiplicacao}.`);
